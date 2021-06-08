@@ -1,0 +1,35 @@
+body{
+ 
+}
+
+logo{
+    margin: 1% 4% 1% 3%;
+    color:white;
+    font-size:xx-large;
+    font-weight: bolder;
+    font-style: italic;
+}
+header{
+    text-align:left;
+    align-items:baseline;
+    flex-wrap: nowrap;
+}
+
+op{
+    color: gray;
+    margin-right: 5%;
+   
+}
+
+footer{
+    position:fixed;
+    bottom:0;
+    width: 100%;
+}
+invite
+{
+    display: inline-flex;
+    width: 35%;
+    margin: 1%;
+    position: relative;
+}
